@@ -124,14 +124,14 @@ article > h2 {
 
 article > p {
     line-height: 30px;
-    text-indent: 40px;
+    text-indent: 30px;
     text-align: justify;
     margin: 0px 10px 30px 10px;
 }
 
 aside > p{
     line-height: 30px;
-    text-indent: 40px;
+    text-indent: 30px;
     text-align: justify;
     margin: 0px 10px 30px 10px;
 }
